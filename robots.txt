@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap:https://lauraflam.github.io/FlamentLaura_4_24112021/sitemap.xml
