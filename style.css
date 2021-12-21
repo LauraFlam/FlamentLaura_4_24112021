@@ -655,6 +655,10 @@ a {
     color: #575757!important;
 }
 
+.text-description {
+    font-size: 1.7em;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -776,7 +780,11 @@ h4 {
 }
 
 .tc-white {
-    color: black!important;
+    color: #F3976C!important;
+}
+
+.tc-black {
+    color: black;
 }
 
 .btn-atomic-tangerine {
