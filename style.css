@@ -46,6 +46,7 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
+    text-align: center;
 }
 
 .bloc-md {
@@ -659,10 +660,6 @@ a {
     font-size: 1.7em;
 }
 
-.container {
-    max-width: 1000px;
-}
-
 .hero-bloc-text {
     font-size: 38px;
 }
@@ -1049,4 +1046,31 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.col-sm-12-modif {
+    text-align: center;
+}
+
+.col-sm-3-modif {
+    color: black;
+    visibility: visible;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+.form-control {
+    width: 25%;
+    margin-left: 37em;
+}
+ 
+a {
+    text-decoration: none;
+}
+
+.site-navigation {
+    margin-right: 8em;
+    list-style: none;
 }
