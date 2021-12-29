@@ -741,6 +741,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.black {
+    color: black;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -1057,18 +1061,41 @@ a {
     text-decoration: none;
 }
 
-.site-navigation {
-    margin-right: 16em;
-    list-style: none;
-    margin-top: 0em;
-}
-
 p {
     font-size: 1.2em;
 }
 
-/* Responsive mobile */
-@media only screen and (min-width: 467px) and (max-width: 600px) {}
+.site-navigation {
+    list-style: none;
+}
 
-/* Responsive tablette */
-@media only screen and (min-width: 601px) and (max-width: 1024px) {}
+ul {
+    list-style: none;
+    margin-left: -2em;
+}
+
+li {
+    font-size: 1.1em;
+}
+
+.col-sm-4 {
+    margin-top: 2em;
+}
+
+
+/* Responsive mobile */
+@media only screen and (max-width: 600px) {
+    .social {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    p {
+        font-size: 1em;
+    }
+
+    .text-description {
+        font-size: 1.3em;
+    }
+}
+
