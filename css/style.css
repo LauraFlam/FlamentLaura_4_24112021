@@ -92,7 +92,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("../img/texture-paper.png");
+    background: url("../img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -743,6 +743,7 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
     height: 270px;
+    width: 270px;
 }
 
 .portfolio-row {
@@ -1037,6 +1038,11 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.logo-agence {
+    height: 45px;
+    width: 215px;
 }
 
 .col-sm-12-modif {
