@@ -1040,9 +1040,13 @@ h4 {
     }
 }
 
-.logo-agence {
+.nom-agence {
     height: 45px;
     width: 215px;
+}
+
+.logo-agence {
+    width: 18%;
 }
 
 .col-sm-12-modif {
