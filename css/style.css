@@ -780,6 +780,11 @@ h4 {
     color: #50ff00!important;
 }
 
+.tc-white2 {
+    color: white!important;
+    text-decoration: underline;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black!important;
@@ -1097,11 +1102,6 @@ a:hover {
 @media only screen and (max-width: 600px) {
     .portfolio-thumb {
         margin-left: 2.5em;
-    }
-
-    .social {
-        display: flex;
-        justify-content: space-between;
     }
 
     p {
