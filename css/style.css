@@ -100,8 +100,6 @@ a:hover {
     background-attachment: fixed;
 }
 
-
-
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
 }
@@ -284,6 +282,7 @@ a:hover {
 #bloc-1-hero h1 {
     font-size: 40px;
     font-weight: bold;
+    background-color: #00000000;
 }
 
 .navbar {
@@ -776,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #fffb00!important;
+    color: #ff9966!important;
 }
 
 .btn-atomic-tangerine {
