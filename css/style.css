@@ -778,7 +778,7 @@ h4 {
 }
 
 .tc-white {
-    color: #50ff00!important;
+    color: #fffb00!important;
 }
 
 .btn-atomic-tangerine {
@@ -1096,12 +1096,11 @@ a:hover {
 
 /* Responsive mobile */
 @media only screen and (max-width: 600px) {
-    
     #bloc-1-hero h1 {
         font-size: 33px;
         font-weight: 700;
     }
-
+    
     .portfolio-thumb {
         margin-left: 2.5em;
     }
