@@ -476,6 +476,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    margin-right: 0.3em;
 }
 
 .icon-lg {
@@ -699,7 +700,7 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 550px;
     margin: auto auto auto auto;
 }
 
@@ -1079,11 +1080,12 @@ li {
 .footer-title {
     color: black;
     font-size: 1.2em;
-    text-decoration: underline;
+    font-weight: bold;
 }
 
 a {
     line-height: 1.5em;
+    text-decoration: underline;
 }
 
 a:hover {
